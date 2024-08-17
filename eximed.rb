@@ -7,7 +7,7 @@ class Eximed < Formula
   depends_on "exiftool"
 
   def install
-    bin.install "my_application"
+    bin.install "eximed"
     bin.install "exiftool"
   end
 
