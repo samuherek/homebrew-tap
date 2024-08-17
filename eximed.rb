@@ -1,8 +1,8 @@
 class MyApplication < Formula
   desc "A description of your Rust application"
   homepage "https://github.com/samuherek/eximed"
-  url "https://github.com/samuherek/eximed/releases/download/v0.1.0/eximed.tar.gz"
-  sha256 "your_tarball_sha256"
+  url "https://github.com/samuherek/eximed/releases/download/v0.1.2/dips-v0.1.2-aarch64-apple-darwin.tar.gz"
+  sha256 ""
 
   depends_on "exiftool"
 
